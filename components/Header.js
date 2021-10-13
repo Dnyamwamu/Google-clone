@@ -22,6 +22,7 @@ function Header() {
       <div className='flex w-full p-0 items-center'>
         <Image
           src='https://www.google.co.uk/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png'
+          alt='Google logo'
           height={40}
           width={120}
           className='cursor-pointer'
